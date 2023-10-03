@@ -1,0 +1,4 @@
+# Stop GPU
+
+setprop init.svc.gpu stopped
+setprop init.svc.gpu-1-0 stopped
